@@ -1,9 +1,9 @@
 ## Olá eu sou o Gabriel Zvarum, Desenvolvedor de software e amante de tecnologia!
 
-
-<a![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-zvarum&show_icons=true&theme=gruvbox_light)></a>
-<a![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)></a>
-
+<div>
+<a ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-zvarum&show_icons=true&theme=gruvbox_light)></a>
+<a ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)></a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
