@@ -2,7 +2,7 @@
 
 <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-zvarum&show_icons=true&theme=gruvbox_light">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-zvarum&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-zvarum&layout=donut">
 </div>
 
 <div style="display: inline_block"><br>
