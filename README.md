@@ -1,4 +1,4 @@
-## Olá eu sou o Gabriel Zvarum
+## Olá eu sou o Gabriel Zvarum,
 
 <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-zvarum&show_icons=true&theme=gruvbox_light">
